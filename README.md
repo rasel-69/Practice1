@@ -1,6 +1,6 @@
 
 Here in task_ml.py file contains all the ML models code .
-Novelty of My works below
+##### Novelty of My works below
 (1) I used Logistic Regression as  a classifier
 (2) I employed Naive Bayes Alogithm
 (3) I Utilized KNN model
