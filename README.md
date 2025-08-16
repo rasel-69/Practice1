@@ -7,7 +7,7 @@ Here in task_ml.py file contains all the ML models code .
 ##### (4) I employed Keras Hyper parameter tuned Enhanced KNN model. 
 ##### (5) I Utilized an ensemble model integraing logistic regression, naive bayes, and KNN with CatBoost as meta learner . 
 ##### (6) Here  I implemented Decision tree calssifier with pre pruning techinque to mitigate overfitting issues.
-##### (7) I also utilized Hyper parameter tuned (for max_depth) decision tree classifier . 
+##### (7) I also used Support Vector Machine Classifier 
 
 
 #### All the ML models results with Saved trained Mode link is : https://drive.google.com/drive/folders/14bZlR1b1VMInAhSdyjgkwAP3c8Zl_458?usp=sharing
